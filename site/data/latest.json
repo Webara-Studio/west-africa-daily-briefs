@@ -1,4 +1,25 @@
 {
+  "agribusiness": {
+    "date": "2026-06-04",
+    "day": "Thursday",
+    "topic": "Agribusiness & Commodities",
+    "category": "agribusiness",
+    "week_number": "23",
+    "sentiment": "mixed",
+    "key_takeaways": "",
+    "opportunities": "",
+    "- Cocoa processing arbitrice": "With bean prices at 20-month lows, margins for local grinding, butter/powder production, and chocolate manufacturing are widening \u2014 Ghanaian processors should be locking in supply now",
+    "- Rubber supply gap": "Natural rubber at 234.40 cents/kg, up 46.50% YoY and at highs since January 2017 \u2014 West African rubber plantations (Liberia, Nigeria, C\u00f4te d'Ivoire) are well-positioned to capture demand displaced by Thai/Indonesian weather disruptions",
+    "- Rice import substitution": "ECOWAS's $5bn annual rice import bill remains the region's most bankable agri-investment thesis \u2014 milling, seed systems, and warehouse infrastructure are all underinvested",
+    "watch_list": "",
+    "- Cocoa price trajectory": "Trading Economics forecasts $3,862/t by end-Q2 and $3,259/t in 12 months \u2014 further declines will pressure COCOBOD's ability to maintain the GH\u00a22,587/bag producer price",
+    "- West African monsoon onset": "Thailand and Indonesia face weather disruptions; West Africa's June\u2013September cocoa mid-crop harvest will be the next major supply signal",
+    "- Ghana cedi at GH\u00a211.79/$": "Further depreciation raises input costs (fertiliser, machinery) for farmers even as export commodity prices in dollars soften",
+    "- COCOBOD 2025/26 pricing policy": "Whether the GH\u00a22,587/bag (approximately $2,190/t at current rates) remains competitive if the cedi strengthens or global prices recover",
+    "sources": "",
+    "- https": "//www.icco.org/",
+    "_file": "briefs/2026/06/2026-06-04-agribusiness.md"
+  },
   "crypto": {
     "date": "2026-06-04",
     "day": "Wednesday",
