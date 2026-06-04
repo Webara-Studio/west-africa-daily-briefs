@@ -45,6 +45,36 @@
       "_file": "briefs/2026/06/2026-06-04-crypto.md"
     }
   ],
+  "stocks": [
+    {
+      "date": "2026-06-04",
+      "day": "Thursday",
+      "topic": "IPOs & Stock Market Watch",
+      "category": "stocks",
+      "week_number": "23",
+      "sentiment": "mixed",
+      "key_takeaways": "",
+      "opportunities": "",
+      "watch_list": "",
+      "sources": "",
+      "- https": "//www.stockex.co.tt/",
+      "_file": "briefs/2026/06/2026-06-04-stocks.md"
+    },
+    {
+      "date": "2026-06-05",
+      "day": "Friday",
+      "topic": "IPOs & Stock Market Watch",
+      "category": "stocks",
+      "week_number": "23",
+      "sentiment": "mixed",
+      "key_takeaways": "",
+      "opportunities": "",
+      "watch_list": "",
+      "sources": "",
+      "- https": "//www.jamstockex.com",
+      "_file": "briefs/2026/06/2026-06-05-stocks.md"
+    }
+  ],
   "tech": [
     {
       "date": "2026-06-04",
@@ -78,22 +108,6 @@
       "sources": "",
       "- https": "//www.brookings.edu/articles/the-african-continental-free-trade-area-and-exchange-rate-misalignments/",
       "_file": "briefs/2026/06/2026-06-04-trade.md"
-    }
-  ],
-  "stocks": [
-    {
-      "date": "2026-06-05",
-      "day": "Friday",
-      "topic": "IPOs & Stock Market Watch",
-      "category": "stocks",
-      "week_number": "23",
-      "sentiment": "mixed",
-      "key_takeaways": "",
-      "opportunities": "",
-      "watch_list": "",
-      "sources": "",
-      "- https": "//www.jamstockex.com",
-      "_file": "briefs/2026/06/2026-06-05-stocks.md"
     }
   ]
 }

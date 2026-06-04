@@ -43,6 +43,20 @@
   },
   {
     "date": "2026-06-04",
+    "day": "Thursday",
+    "topic": "IPOs & Stock Market Watch",
+    "category": "stocks",
+    "week_number": "23",
+    "sentiment": "mixed",
+    "key_takeaways": "",
+    "opportunities": "",
+    "watch_list": "",
+    "sources": "",
+    "- https": "//www.stockex.co.tt/",
+    "_file": "briefs/2026/06/2026-06-04-stocks.md"
+  },
+  {
+    "date": "2026-06-04",
     "day": "Wednesday",
     "topic": "Local App & Digital Product Ideas",
     "category": "tech",
