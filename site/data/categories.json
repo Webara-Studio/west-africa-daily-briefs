@@ -43,6 +43,20 @@
       "sources": "",
       "- https": "//www.coindesk.com/tag/africa",
       "_file": "briefs/2026/06/2026-06-04-crypto.md"
+    },
+    {
+      "date": "2026-06-09",
+      "day": "Tuesday",
+      "topic": "Crypto & Digital Assets",
+      "category": "crypto",
+      "week_number": "24",
+      "sentiment": "bullish",
+      "key_takeaways": "",
+      "opportunities": "",
+      "watch_list": "",
+      "sources": "",
+      "- https": "//api.coingecko.com/api/v3/simple/price",
+      "_file": "briefs/2026/06/2026-06-09-crypto.md"
     }
   ],
   "governance": [
