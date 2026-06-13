@@ -1,4 +1,18 @@
 {
+  "governance": {
+    "date": "2026-06-06",
+    "day": "Saturday",
+    "topic": "Governance, Elections, Regulation & Trade",
+    "category": "governance",
+    "week_number": "23",
+    "sentiment": "mixed",
+    "key_takeaways": "",
+    "opportunities": "",
+    "watch_list": "",
+    "sources": "",
+    "- https": "//dailytrust.com/",
+    "_file": "briefs/2026/06/2026-06-06-governance.md"
+  },
   "agribusiness": {
     "date": "2026-06-10",
     "day": "Wednesday",
@@ -31,20 +45,6 @@
     "sources": "",
     "- https": "//api.coingecko.com/api/v3/simple/price",
     "_file": "briefs/2026/06/2026-06-09-crypto.md"
-  },
-  "governance": {
-    "date": "2026-06-06",
-    "day": "Saturday",
-    "topic": "Governance, Elections, Regulation & Trade",
-    "category": "governance",
-    "week_number": "23",
-    "sentiment": "mixed",
-    "key_takeaways": "",
-    "opportunities": "",
-    "watch_list": "",
-    "sources": "",
-    "- https": "//dailytrust.com/",
-    "_file": "briefs/2026/06/2026-06-06-governance.md"
   },
   "stocks": {
     "date": "2026-06-12",

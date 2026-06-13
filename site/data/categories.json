@@ -1,4 +1,63 @@
 {
+  "governance": [
+    {
+      "date": "2025-06-13",
+      "day": "Saturday",
+      "topic": "Governance, Elections, Regulation & Trade",
+      "category": "governance",
+      "week_number": "24",
+      "sentiment": "mixed",
+      "key_takeaways": "",
+      "- Three concurrent governance trajectories are reshaping West Africa": "democratic consolidation in Ghana, democratic erosion in the Sahel (AES states), and contested \"stability\" in Ivory Coast and Guinea \u2014 each creating distinct regulatory climates",
+      "- Resource nationalism is accelerating across the region": "Ghana's new mining laws shorter licence terms, Guinea's bauxite export surge amid looming curbs, and Mali's tougher rules causing a 23% gold output drop \u2014 real operational risk for extractive investors",
+      "opportunities": "",
+      "watch_list": "",
+      "- Senegal": "President Faye's sacking of PM Sonko (May 2025) and dissolution of government \u2014 political instability risk for Francophone West Africa's traditionally stable democracy; Sonko's re-election as party head signals ongoing power struggle",
+      "- Guinea": "Legislative elections delivered a contested result; ECOWAS observation mission deployed; low turnout raises legitimacy questions for the transitional government transitioning to civilian rule",
+      "- ECOWAS-AES split": "The Alliance of Sahel States (Mali, Burkina Faso, Niger) AES unified military force and disinformation campaigns targeting the bloc test whether ECOWAS retains relevance \u2014 implications for cross-border trade and free movement protocols",
+      "- Nigeria": "New Tax Act entering force in January 2026 \u2014 political controversy over implementation, forex deduction restrictions, rent relief limitations; compliance burden for FMCG and SME sectors",
+      "- Ghana": "Resource sovereignty battle with Chinese miners under Mahama \u2014 the Gold Fields Tarkwa lease renewal terms will set precedent for how Ghana balances investor protection with national interest",
+      "sources": "",
+      "- https": "//carnegieendowment.org/",
+      "_file": "briefs/2025/06/2025-06-13-governance.md"
+    },
+    {
+      "date": "2026-06-04",
+      "day": "Thursday",
+      "topic": "Governance, Elections, Regulation & Trade",
+      "category": "governance",
+      "week_number": "23",
+      "sentiment": "mixed",
+      "key_takeaways": "",
+      "- Nigeria's security crisis deepens": "school abductions surge across multiple states (Oyo, Kwara, Kogi, Borno), Sowore leads nationwide protests, and Aso Villa locks down \u2014 governance credibility under strain ahead of 2027 election cycle",
+      "- Ghana's regulatory landscape shifts": "building safety crackdown after Adenta collapse, Ebola border health posts announced, anti-LGBTQ+ bill returns to parliamentary agenda, and CSOs push for electoral reform",
+      "opportunities": "",
+      "watch_list": "",
+      "- Nigeria 2027 election positioning": "Peter Obi's IPOB defence controversy (Daily Trust), Accord Party's N525/$ exchange rate promise, and minority leadership tussle in House of Reps signal a volatile pre-election period",
+      "- Ghana anti-LGBTQ+ bill": "Minority demands original 2024 bill be sent to President Mahama for assent \u2014 passage could trigger donor and investor scrutiny",
+      "- Nigeria security operations": "Joint US-Nigeria strikes kill 175 ISIL fighters; Marco Rubio confirms \"active counterterrorism cooperation\" \u2014 watch for expanded US military footprint and its political implications",
+      "- Shell Nigeria pollution case": "BBC documentary evidence could trigger regulatory action, community litigation, and reputational fallout \u2014 sets precedent for extractives accountability across the region",
+      "- Guinea legislative elections (31 May)": "ECOWAS observers deployed \u2014 results and any post-election instability could affect bauxite supply chains",
+      "- Sierra Leone diamond sector": "Lab-grown diamonds heap pressure on natural gem miners \u2014 regulatory response and potential support measures to watch",
+      "sources": "",
+      "- https": "//www.aljazeera.com/news/2026/6/4/gunmen-abduct-39-students-7-teachers-in-attacks-on-nigeria-schools",
+      "_file": "briefs/2026/06/2026-06-04-governance.md"
+    },
+    {
+      "date": "2026-06-06",
+      "day": "Saturday",
+      "topic": "Governance, Elections, Regulation & Trade",
+      "category": "governance",
+      "week_number": "23",
+      "sentiment": "mixed",
+      "key_takeaways": "",
+      "opportunities": "",
+      "watch_list": "",
+      "sources": "",
+      "- https": "//dailytrust.com/",
+      "_file": "briefs/2026/06/2026-06-06-governance.md"
+    }
+  ],
   "agribusiness": [
     {
       "date": "2026-06-04",
@@ -76,44 +135,6 @@
       "sources": "",
       "- https": "//api.coingecko.com/api/v3/simple/price",
       "_file": "briefs/2026/06/2026-06-09-crypto.md"
-    }
-  ],
-  "governance": [
-    {
-      "date": "2026-06-04",
-      "day": "Thursday",
-      "topic": "Governance, Elections, Regulation & Trade",
-      "category": "governance",
-      "week_number": "23",
-      "sentiment": "mixed",
-      "key_takeaways": "",
-      "- Nigeria's security crisis deepens": "school abductions surge across multiple states (Oyo, Kwara, Kogi, Borno), Sowore leads nationwide protests, and Aso Villa locks down \u2014 governance credibility under strain ahead of 2027 election cycle",
-      "- Ghana's regulatory landscape shifts": "building safety crackdown after Adenta collapse, Ebola border health posts announced, anti-LGBTQ+ bill returns to parliamentary agenda, and CSOs push for electoral reform",
-      "opportunities": "",
-      "watch_list": "",
-      "- Nigeria 2027 election positioning": "Peter Obi's IPOB defence controversy (Daily Trust), Accord Party's N525/$ exchange rate promise, and minority leadership tussle in House of Reps signal a volatile pre-election period",
-      "- Ghana anti-LGBTQ+ bill": "Minority demands original 2024 bill be sent to President Mahama for assent \u2014 passage could trigger donor and investor scrutiny",
-      "- Nigeria security operations": "Joint US-Nigeria strikes kill 175 ISIL fighters; Marco Rubio confirms \"active counterterrorism cooperation\" \u2014 watch for expanded US military footprint and its political implications",
-      "- Shell Nigeria pollution case": "BBC documentary evidence could trigger regulatory action, community litigation, and reputational fallout \u2014 sets precedent for extractives accountability across the region",
-      "- Guinea legislative elections (31 May)": "ECOWAS observers deployed \u2014 results and any post-election instability could affect bauxite supply chains",
-      "- Sierra Leone diamond sector": "Lab-grown diamonds heap pressure on natural gem miners \u2014 regulatory response and potential support measures to watch",
-      "sources": "",
-      "- https": "//www.aljazeera.com/news/2026/6/4/gunmen-abduct-39-students-7-teachers-in-attacks-on-nigeria-schools",
-      "_file": "briefs/2026/06/2026-06-04-governance.md"
-    },
-    {
-      "date": "2026-06-06",
-      "day": "Saturday",
-      "topic": "Governance, Elections, Regulation & Trade",
-      "category": "governance",
-      "week_number": "23",
-      "sentiment": "mixed",
-      "key_takeaways": "",
-      "opportunities": "",
-      "watch_list": "",
-      "sources": "",
-      "- https": "//dailytrust.com/",
-      "_file": "briefs/2026/06/2026-06-06-governance.md"
     }
   ],
   "stocks": [
