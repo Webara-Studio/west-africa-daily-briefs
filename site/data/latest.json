@@ -76,18 +76,22 @@
     "_file": "briefs/2026/06/2026-06-08-tech.md"
   },
   "trade": {
-    "date": "2026-06-07",
+    "date": "2026-06-14",
     "day": "Sunday",
     "topic": "Import/Export Trade Trends",
     "category": "trade",
-    "week_number": "23",
+    "week_number": "24",
     "sentiment": "mixed",
     "key_takeaways": "",
     "opportunities": "",
+    "- Cocoa value-addition": "With raw bean prices depressed, the margin opportunity has shifted to processed cocoa products (butter, powder, liquor) \u2014 Ghana and C\u00f4te d'Ivoire should accelerate domestic grinding capacity",
+    "- Cashew processing arbitrage": "West Africa produces 40% of global cashew but processes less than 10% locally \u2014 Vietnam/India import raw, process, re-export at 2-3x value",
+    "- Shea butter premium exports": "Global demand for natural cosmetics-grade shea is growing 15%+ annually; Ghana, Burkina Faso and Nigeria are well-positioned",
+    "- AfCFTA services exports": "Nigeria's services export potential (tech, entertainment, professional services) remains largely untapped under the continental free trade area",
     "watch_list": "",
     "sources": "",
-    "- https": "//www.ghanaweb.com/GhanaHomePage/business/",
-    "_file": "briefs/2026/06/2026-06-07-trade.md"
+    "- https": "//www.financialafrik.com/en/",
+    "_file": "briefs/2026/06/2026-06-14-trade.md"
   },
   "energy": {
     "date": "2026-06-11",
