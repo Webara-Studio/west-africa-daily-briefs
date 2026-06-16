@@ -280,5 +280,26 @@
     "sources": "",
     "- https": "//techpoint.africa/news/moniepoint-acquires-sumac/",
     "_file": "briefs/2026/06/2026-06-15-tech.md"
+  },
+  {
+    "date": "2026-06-16",
+    "day": "Tuesday",
+    "topic": "Crypto & Digital Assets",
+    "category": "crypto",
+    "week_number": "25",
+    "sentiment": "mixed",
+    "key_takeaways": "",
+    "opportunities": "",
+    "- Stablecoin-powered remittance infrastructure": "BVNK survey shows 79% stablecoin ownership in Africa (highest globally) and 40% fee savings vs traditional remittance \u2014 businesses building compliant on/off-ramps for UK\u2192Ghana and US\u2192Nigeria corridors are well positioned",
+    "- Mobile money\u2013crypto integration": "With Ghana's mobile money ecosystem deeply embedded, the first compliant platform to bridge MoMo and stablecoin wallets at scale will capture enormous volume",
+    "watch_list": "",
+    "- Ghana VASP sandbox progression": "11 companies (Africoin, Blu Penguin, Goldbod, Hanypay, Hyro Exchange, HSB Global, KoinKoin, Whitebits, Vaulta, XChain, Bsystem) could receive full licences as early as September 2026 \u2014 watch for first movers",
+    "- Bank of Ghana's enforcement actions": "The June 14 directive has no grace period; which banks and platforms will be named, and how will this interact with the SEC's parallel sandbox framework?",
+    "- Nigeria SEC VASP licensing": "Nigeria remains Africa's largest crypto market ($92B); any movement on formal VASP licensing from SEC Nigeria would be a regional bellwether",
+    "- Rwanda's draft VASP framework": "Moving through legislature \u2014 would ban crypto as legal tender and mining, but create a licensing pathway; a test case for East African regulation",
+    "- Western Union's USDPT stablecoin on Solana": "If launched, this could reshape payout corridors into West Africa overnight",
+    "sources": "",
+    "- https": "//cointelegraph.com/tags/ghana",
+    "_file": "briefs/2026/06/2026-06-16-crypto.md"
   }
 ]
