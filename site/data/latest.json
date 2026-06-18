@@ -102,19 +102,17 @@
     "_file": "briefs/2026/06/2026-06-14-trade.md"
   },
   "energy": {
-    "date": "2026-06-11",
+    "date": "2026-06-18",
     "day": "Thursday",
     "topic": "Renewable Energy & Power",
     "category": "energy",
-    "week_number": "24",
+    "week_number": "25",
     "sentiment": "bullish",
     "key_takeaways": "",
-    "- Storage is now the critical enabler": "Senegal's Walo Storage (16 MW solar + 10 MW/20 MWh BESS) is West Africa's first grid-connected solar-plus-storage facility, and multiple 50\u2013100 MW hybrid projects are advancing across the region",
     "opportunities": "",
     "watch_list": "",
-    "- Senegal's pipeline": "60 MW Axian solar-plus-storage at Kolda, two 50 MW + 90 MWh storage plants with CNTIC, 300 MW ACWA Power desalination project, and 40 MW Infinity Power storage",
     "sources": "",
-    "- https": "//www.pv-magazine.com/2026/06/04/mauritius-tenders-220-mw-of-solar-and-storage-via-new-e-marketplace/",
-    "_file": "briefs/2026/06/2026-06-11-energy.md"
+    "- https": "//energyforgrowth.org/article/angolas-hydropower-finally-gets-a-pathway-to-market/",
+    "_file": "briefs/2026/06/2026-06-18-energy.md"
   }
 }
