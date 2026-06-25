@@ -101,17 +101,18 @@
     "_file": "briefs/2026/06/2026-06-21-trade.md"
   },
   "energy": {
-    "date": "2026-06-18",
+    "date": "2026-06-25",
     "day": "Thursday",
     "topic": "Renewable Energy & Power",
     "category": "energy",
-    "week_number": "25",
+    "week_number": "26",
     "sentiment": "bullish",
     "key_takeaways": "",
+    "- West Africa is seeing a wave of solar-plus-storage financial closes": "Senegal (60 MW + BESS at \u20ac90M), C\u00f4te d'Ivoire (66 MW Sokhoro), and Liberia (30 MW Mount Coffee expansion)",
     "opportunities": "",
     "watch_list": "",
     "sources": "",
-    "- https": "//energyforgrowth.org/article/angolas-hydropower-finally-gets-a-pathway-to-market/",
-    "_file": "briefs/2026/06/2026-06-18-energy.md"
+    "- https": "//www.dailymaverick.co.za/article/2026-06-25-mission-300-50m-africans-connected",
+    "_file": "briefs/2026/06/2026-06-25-energy.md"
   }
 }
