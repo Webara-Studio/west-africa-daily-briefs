@@ -26,6 +26,8 @@ def extract_frontmatter(content: str) -> dict:
         return {}
     fm = {}
     for line in match.group(1).split("\n"):
+        if line.strip().startswith("-"):
+            continue  # skip YAML block-list items; they are not scalar frontmatter keys
         if ":" in line:
             key, _, value = line.partition(":")
             key = key.strip()
