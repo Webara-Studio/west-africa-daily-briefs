@@ -8,7 +8,7 @@ Gold and crude remain the region’s largest hard-currency engines, with Ghana r
 
 **Why it matters**
 
-This is a structural repricing of the trade opportunity. Governments are trying to retain more refining, grinding, extraction and manufacturing locally, which creates openings for licensed processors, assayers, aggregators, traceability providers and regional logistics operators — whilst making unhedged bulk trading more exposed to policy shocks. The sensible entry is staged: secure a licensed processor and buyer, produce documented samples, then scale into cocoa, shea or cashew semi-processing rather than committing immediately to heavy plant.
+This is a structural repricing of the trade opportunity. Governments are trying to retain more refining, grinding, extraction and manufacturing locally, which creates openings for licensed processors, assayers, aggregators, traceability providers and regional logistics operators — whilst making unhedged bulk trading more exposed to policy shocks. The sensible entry is staged: secure a licensed processor and buyer, produce documented samples, then scale into cocoa, shea or cashew semi-processing rather than committing immediately to heavy plant. That approach also protects working capital while policy details, certification requirements and port costs settle.
 
 [Read the full trade brief](https://github.com/Webara-Studio/west-africa-daily-briefs/blob/master/briefs/2026/07/2026-07-26-trade.md)
 
@@ -18,7 +18,7 @@ Côte d’Ivoire commissioned the 52 MWp Ferké solar plant in the north, adding
 
 **Why it matters**
 
-The investment case is broadening beyond panels and one-off engineering contracts. Businesses that solve storage, collections, maintenance, interconnection, productive-use demand and customer credit can earn recurring revenue from unreliable-grid conditions. For Ghanaian and regional operators, the stronger model is energy-as-a-service for agro-processors, telecoms, SMEs and public facilities, supported by local EPC and O&M capability, disciplined power-purchase contracts and careful management of foreign-exchange and battery-replacement risk.
+The investment case is broadening beyond panels and one-off engineering contracts. Businesses that solve storage, collections, maintenance, interconnection, productive-use demand and customer credit can earn recurring revenue from unreliable-grid conditions. For Ghanaian and regional operators, the stronger model is energy-as-a-service for agro-processors, telecoms, SMEs and public facilities, supported by local EPC and O&M capability, disciplined power-purchase contracts and careful management of foreign-exchange and battery-replacement risk. Storage and collections are particularly important: a technically sound plant still fails commercially if customers cannot pay or power is unavailable when productive equipment needs it.
 
 [Read the full energy brief](https://github.com/Webara-Studio/west-africa-daily-briefs/blob/master/briefs/2026/07/2026-07-23-energy.md)
 
@@ -28,7 +28,7 @@ The Ghana Stock Exchange Composite reached 15,118.75 on 22 July, up 72.39% year 
 
 **Why it matters**
 
-The opportunity is not simply to launch another brokerage application. It is to build regulated distribution for diaspora and smaller regional investors: transparent FX, curated IPO access, pooled or fractional exposure where permitted, research and simple reporting. Ghana is the natural beachhead because of its strong performance, recognisable issuers and diaspora links; BRVM is the logical second market because one regional exchange can reach eight UEMOA jurisdictions. The principal risk is liquidity and valuation: a strong index does not guarantee easy exits.
+The opportunity is not simply to launch another brokerage application. It is to build regulated distribution for diaspora and smaller regional investors: transparent FX, curated IPO access, pooled or fractional exposure where permitted, research and simple reporting. Ghana is the natural beachhead because of its strong performance, recognisable issuers and diaspora links; BRVM is the logical second market because one regional exchange can reach eight UEMOA jurisdictions. The principal risk is liquidity and valuation: a strong index does not guarantee easy exits. Any gateway would therefore need proper suitability controls, custody arrangements and transparent disclosure of local-market liquidity, rather than presenting recent returns as a promise of future performance.
 
 [Read the full stocks brief](https://github.com/Webara-Studio/west-africa-daily-briefs/blob/master/briefs/2026/07/2026-07-24-stocks.md)
 
