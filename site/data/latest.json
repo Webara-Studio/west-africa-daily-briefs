@@ -65,17 +65,17 @@
     "_file": "briefs/2026/08/2026-08-17-tech.md"
   },
   "trade": {
-    "date": "2026-08-16",
+    "date": "2026-08-23",
     "day": "Sunday",
-    "topic": "Import Trade Trends",
+    "topic": "Export Trade Trends",
     "category": "trade",
-    "week_number": "33",
+    "week_number": "34",
     "sentiment": "mixed",
     "key_takeaways": "",
     "opportunities": "",
     "watch_list": "",
     "sources": "",
-    "_file": "briefs/2026/08/2026-08-16-trade.md"
+    "_file": "briefs/2026/08/2026-08-23-trade.md"
   },
   "energy": {
     "date": "2026-08-20",
